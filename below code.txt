@@ -1,0 +1,41 @@
+let a=typeof(1);
+console.log(a);
+ans;number
+
+let b=typeof(1.1);
+console.log(b);
+ans;number
+
+let c=typeof("1.1");
+console.log(c);
+ans=string
+
+let d=typeof(true);
+console.log(d);
+ans=boolean
+
+let e=typeof(null);
+console.log(e);
+ans=object
+
+let f=typeof(undefined);
+console.log(f);
+ans=undefined
+
+let g=typeof([]);
+console.log(g);
+ans=object
+
+let h=typeof(NaN);
+console.log(h);
+abs=number
+
+let i=typeof({});
+console.log(i);
+ans=object
+
+
+
+
+
+
